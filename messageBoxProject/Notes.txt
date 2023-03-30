@@ -1,0 +1,4 @@
+1. Installing express-generator, npm i -g express-generator
+2. Initiating the project - express --ejs project_name
+3. As per our wish, we will create routes, (with GET/POST requests)(in routes folder).
+4. For each routes, we will create our ejs pages(in views folder).
