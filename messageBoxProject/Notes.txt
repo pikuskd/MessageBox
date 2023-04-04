@@ -2,3 +2,10 @@
 2. Initiating the project - express --ejs project_name
 3. As per our wish, we will create routes, (with GET/POST requests)(in routes folder).
 4. For each routes, we will create our ejs pages(in views folder).
+
+Git Commands
+1. git clone "github_url" - clone the entire project in your local system
+2. git add file_name - this adds a file/folder into staging area
+3. git status - checking the tracked files, yet to be committed
+4. git commit - for creating a checkpoint, saving the progress
+5. git push - to put the entire changes into the github respository.
